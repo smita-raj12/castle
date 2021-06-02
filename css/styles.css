@@ -1,0 +1,20 @@
+h1{
+  text-align: center;
+  color: brown;
+}
+p{
+  width: auto;
+  font-size: x-large;
+}
+.text-showing {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
